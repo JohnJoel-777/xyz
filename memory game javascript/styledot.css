@@ -1,0 +1,18 @@
+b {
+ color: indianred;
+}
+p {
+ color: darkblue;
+}
+body {
+ text-align: center;
+}
+a {
+  color: mediumvioletred;
+}
+a:hover {
+       color: brown;                  
+}
+h1 {
+  color: brown;
+}

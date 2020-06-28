@@ -1,0 +1,15 @@
+b {
+                         color: olivedrab;
+                        }
+                        p {
+                         color: darkmagenta;
+                        }
+                        body {
+                            text-align: center;                     
+                        }
+                        a {
+                            color: cornflowerblue;
+                        }
+                        a:hover {
+                            color: firebrick;
+                        }
